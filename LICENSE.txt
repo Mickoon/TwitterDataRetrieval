@@ -1,19 +1,4 @@
-Skip to content
- This repository
-Explore
-Gist
-Blog
-Help
-Michael Mickoon
- 
-4  Watch 
-  Star 0
- Fork 0redpaperheart/Prototype-Coin-acceptor
- branch: master  Prototype-Coin-acceptor/LICENSE
-Red Paper Heart on Jul 23, 2014 first commit
-0 contributors
-116 lines (96 sloc)  6.554 kb RawBlameHistory   
-CC0 1.0 Universal
+Michael Kang -  Mickoon
 
 Statement of Purpose
 
@@ -130,4 +115,4 @@ Affirmer's express Statement of Purpose.
 For more information, please see
 <http://creativecommons.org/publicdomain/zero/1.0/>
 Status API Training Shop Blog About
-© 2015 GitHub, Inc. Terms Privacy Security Contact
+Â© 2015 GitHub, Inc. Terms Privacy Security Contact
